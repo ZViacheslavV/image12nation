@@ -1,12 +1,12 @@
 {
-  "name": "goit-js-hw-12",
+  "name": "image12nation",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/goit-js-hw-12/",
+    "build": "vite build --base=/image12nation/",
     "preview": "vite preview",
     "push": "node node_scripts_personal/push.js",
     "restart": "node node_scripts_personal/push.js"
