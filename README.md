@@ -1,4 +1,4 @@
-## 🌄 [Image12Nation (website)](https://zviacheslavv.github.io/image12nation/)
+## 🌄 [Image12Nation](https://zviacheslavv.github.io/image12nation/)
 </br>
 
 > A responsive web application built with JavaScript, HTML5, and CSS3 for browsing and exploring images. The project implements clean front-end architecture, optimized asset loading, and API-driven content retrieval to ensure smooth UI performance across devices.
